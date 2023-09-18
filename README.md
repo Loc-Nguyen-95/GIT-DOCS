@@ -1,6 +1,6 @@
-# GIT-
+# GIT NOTE DOCS ✨
 
-## 1. Tạo 1 Repo (dự án) mới trên GitHub 
+### 1. Tạo 1 Repo (dự án) mới trên GitHub 
 
 ### 2. Up 1 dự án (file) trên máy lên repo / main 
 
