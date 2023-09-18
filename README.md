@@ -43,3 +43,10 @@ git branch
 git status
 git log --online
 ```
+
+## Vấn đề 
+### Git conflig 
+
+## Tìm hiểu thêm - Reference 
+
+
