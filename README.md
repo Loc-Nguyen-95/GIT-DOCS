@@ -1,13 +1,45 @@
 # GIT NOTE DOCS ✨
 
-### 1. Tạo 1 Repo (dự án) mới trên GitHub 
+### Tạo 1 Repo (dự án) mới trên GitHub 
 
-### 2. Up 1 dự án (file) trên máy lên repo / main 
 
-### 3. Up 1 dự án (file) trên máy lên repo / branch 
+### Push 1 dự án (file) trên máy lên repo / main 
 
-### 4. Pull (down) 1 dự án từ Git repo về máy 
+```swift
+git init
+git add .
+git commit -m "..."
+git remote add origin "...."
+git push -u origin main
+````
 
-### 5. Update trong quá trình làm -> Commit 
+### Push 1 dự án (file) trên máy lên repo / branch 
 
-### 6. Merch branch vào main (dành cho teamlead )
+```swift
+git checkout -b "new branch"
+git push --set-upstream origin "new branch"
+````
+
+###  Update trong quá trình làm -> Commit 
+
+```swift
+git add .
+git commit ....
+git push origin main / hoặc branch
+````
+
+###  Pull (down) 1 dự án từ Git repo về máy 
+
+
+### Merch branch vào main (dành cho teamlead )
+
+### Check 
+```swift
+
+```
+
+```swift
+git branch
+git status
+git log --online
+```
